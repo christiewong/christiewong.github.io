@@ -1,0 +1,19 @@
+.black-tr a {
+    padding:0 1em;
+    letter-spacing:.1em;
+    color:#fff;
+    font-weight:300;
+    display:inline-block
+}
+
+.black-tr {
+    background:rgba(32, 32, 32, 0.81);
+    text-transform:uppercase;
+    position:fixed;
+    width:100%;
+    font-size:.88em;
+    line-height:3.2;
+    z-index:50000;
+    top:0;
+    left:0
+}
